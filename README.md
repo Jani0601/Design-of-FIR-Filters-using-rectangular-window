@@ -45,8 +45,11 @@ title('Frequency Response of FIR LPF using Rectangular Window');
 ```
 
 
+
+
 # OUTPUT
 <img width="1027" height="825" alt="image" src="https://github.com/user-attachments/assets/d7ba4e67-0717-4dfd-90cd-1258bcc69337" />
+
 
 
 # RESULT
